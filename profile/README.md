@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deAutomation/.github/main/profile/assets/logo-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deAutomation/.github/main/profile/assets/logo.png">
-    <img alt="deAutomation" src="https://raw.githubusercontent.com/deAutomation/.github/main/profile/assets/logo.png" width="360">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deAutomation/.github/main/profile/assets/logo-v2-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deAutomation/.github/main/profile/assets/logo-v2-light.png">
+    <img alt="deAutomation" src="https://raw.githubusercontent.com/deAutomation/.github/main/profile/assets/logo-v2-light.png" width="360">
   </picture>
 </p>
 
